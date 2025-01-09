@@ -1,0 +1,7 @@
+{
+	"lives": 5,
+	"maxLives": 5,
+	"userHasCharmOfLives": false,
+	"timeToNextRegeneration": -1000,
+	"timestampLastCheck": 1736379829876
+}

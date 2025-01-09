@@ -1,0 +1,13 @@
+{
+    "CandyUfoIngame": "CandyUFOIngameBooster",
+    "CandyUfoIngameThreePack":"CandyUFOIngameBoosterThreePack",
+    "CandyUfoIngameSixPack":"CandyUFOIngameBoosterSixPack",
+    "CandyUfoIngameNinePack":"CandyUFOIngameBoosterNinePack",
+    "CandyStripedBrush": "CandyStripedBrushIngameBooster",
+
+    "CandyUFOIngameBooster": "CandyUfoIngame",
+    "CandyUFOIngameBoosterThreePack":"CandyUfoIngameThreePack",
+    "CandyUFOIngameBoosterSixPack":"CandyUfoIngameSixPack",
+    "CandyUFOIngameBoosterNinePack":"CandyUfoIngameNinePack",
+    "CandyStripedBrushIngameBooster": "CandyStripedBrush"
+}
